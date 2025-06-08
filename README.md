@@ -32,5 +32,5 @@ You can find the full thesis [here](report/memoire.pdf).
 
 ![language](https://img.shields.io/badge/language-Python-blue)
 ![license](https://img.shields.io/badge/license-MIT-pink)
-![status](https://img.shields.io/badge/status-in%90progress-green)
+![status](https://img.shields.io/badge/status-completed-brightgreen)
 ![type](https://img.shields.io/badge/type-academic-violet)
