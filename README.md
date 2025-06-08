@@ -31,8 +31,6 @@ Run the main simulation: python main.py
 You can find the full thesis [here](report/memoire.pdf).
 
 ![language](https://img.shields.io/badge/language-Python-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
+![license](https://img.shields.io/badge/license-MIT-pink)
 ![status](https://img.shields.io/badge/status-in%90progress-green)
-![repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO)
-![contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/YOUR_REPO)
-
+![type](https://img.shields.io/badge/type-academic-violet)
